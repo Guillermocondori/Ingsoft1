@@ -97,5 +97,6 @@ public class vhabitacion {
         this.tipo_habitacion = tipo_habitacion;
     }
     
- //Aqui termina el Codigo de las Habitaciones//   
+ //Aqui termina el Codigo de las Habitaciones//
+    //Prueba de sincronizacion de Netbeans con Github//
 }
