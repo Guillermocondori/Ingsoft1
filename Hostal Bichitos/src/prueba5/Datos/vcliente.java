@@ -27,5 +27,5 @@ public class vcliente extends vpersona {
         this.codigo_cliente = codigo_cliente;
     }
     
-    
+    //prueba mayo
 }
